@@ -1,3 +1,7 @@
 1. check the git is enable under VSCODE setting.
 2.Go to source control 
-Initialize Repository
+3.Initialize Repository
+4.choice command palette under view VScode toolbar and search "git add remote"
+5.assign project name and url from the github under HTTPS; 
+6.prss sync button or push button under bottom left hand side of VScode.
+
